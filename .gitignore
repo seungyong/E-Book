@@ -1,0 +1,12 @@
+/php8/*
+/Apache24/bin/*
+/Apache24/cgi-bin/*
+/Apache24/conf/*
+/Apache24/error/*
+/Apache24/icons/*
+/Apache24/include/*
+/Apache24/lib/*
+/Apache24/logs/*
+/Apache24/manual/*
+/Apache24/modules/*
+/Apache24/*.txt
