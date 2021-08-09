@@ -25,32 +25,38 @@ function getBookList() {
         {
           bookName: '스텔라 오디세이 트릴로지',
           author: '김보영',
-          thumbnail: '../assets/img/book1.png'
+          thumbnail: '../assets/img/book1.png',
+          explan: '아무 생각 없이 퍼왔지만 모든 더미데이터에 사용하고 있는 더미데이터! <br><br> 완전 개꿀이다!'
         },
         {
           bookName: '스텔라 오디세이 트릴로지',
           author: '김보영',
-          thumbnail: '../assets/img/book1.png'
+          thumbnail: '../assets/img/book1.png',
+          explan: '아무 생각 없이 퍼왔지만 모든 더미데이터에 사용하고 있는 더미데이터! <br><br> 완전 개꿀이다!'
         },
         {
           bookName: '스텔라 오디세이 트릴로지',
           author: '김보영',
-          thumbnail: '../assets/img/book1.png'
+          thumbnail: '../assets/img/book1.png',
+          explan: '아무 생각 없이 퍼왔지만 모든 더미데이터에 사용하고 있는 더미데이터! <br><br> 완전 개꿀이다!'
         },
         {
           bookName: '스텔라 오디세이 트릴로지',
           author: '김보영',
-          thumbnail: '../assets/img/book1.png'
+          thumbnail: '../assets/img/book1.png',
+          explan: '아무 생각 없이 퍼왔지만 모든 더미데이터에 사용하고 있는 더미데이터! <br><br> 완전 개꿀이다!'
         },
         {
           bookName: '스텔라 오디세이 트릴로지',
           author: '김보영',
-          thumbnail: '../assets/img/book1.png'
+          thumbnail: '../assets/img/book1.png',
+          explan: '아무 생각 없이 퍼왔지만 모든 더미데이터에 사용하고 있는 더미데이터! <br><br> 완전 개꿀이다!'
         },
         {
           bookName: '스텔라 오디세이 트릴로지',
           author: '김보영',
-          thumbnail: '../assets/img/book1.png'
+          thumbnail: '../assets/img/book1.png',
+          explan: '아무 생각 없이 퍼왔지만 모든 더미데이터에 사용하고 있는 더미데이터! <br><br> 완전 개꿀이다!'
         },
       ]
     },
@@ -60,32 +66,38 @@ function getBookList() {
         {
           bookName: '윤성빈과 함께하는 로아',
           author: '윤성빈',
-          thumbnail: '../assets/img/book1.png'
+          thumbnail: '../assets/img/book1.png',
+          explan: '윤성빈 결국 모든 강화에 실패하고 마는데... <br><br> 그의 도전은 여기서 끝인건가..? <br><br> 윤성빈의 로아 실패작을 담은 엄청난 베스트셀러!'
         },
         {
           bookName: '윤성빈과 함께하는 로아',
           author: '윤성빈',
-          thumbnail: '../assets/img/book1.png'
+          thumbnail: '../assets/img/book1.png',
+          explan: '윤성빈 결국 모든 강화에 실패하고 마는데... <br><br> 그의 도전은 여기서 끝인건가..? <br><br> 윤성빈의 로아 실패작을 담은 엄청난 베스트셀러!'
         },
         {
           bookName: '윤성빈과 함께하는 로아',
           author: '윤성빈',
-          thumbnail: '../assets/img/book1.png'
+          thumbnail: '../assets/img/book1.png',
+          explan: '윤성빈 결국 모든 강화에 실패하고 마는데... <br><br> 그의 도전은 여기서 끝인건가..? <br><br> 윤성빈의 로아 실패작을 담은 엄청난 베스트셀러!'
         },
         {
           bookName: '윤성빈과 함께하는 로아',
           author: '윤성빈',
-          thumbnail: '../assets/img/book1.png'
+          thumbnail: '../assets/img/book1.png',
+          explan: '윤성빈 결국 모든 강화에 실패하고 마는데... <br><br> 그의 도전은 여기서 끝인건가..? <br><br> 윤성빈의 로아 실패작을 담은 엄청난 베스트셀러!'
         },
         {
           bookName: '윤성빈과 함께하는 로아',
           author: '윤성빈',
-          thumbnail: '../assets/img/book1.png'
+          thumbnail: '../assets/img/book1.png',
+          explan: '윤성빈 결국 모든 강화에 실패하고 마는데... <br><br> 그의 도전은 여기서 끝인건가..? <br><br> 윤성빈의 로아 실패작을 담은 엄청난 베스트셀러!'
         },
         {
           bookName: '윤성빈과 함께하는 로아',
           author: '윤성빈',
-          thumbnail: '../assets/img/book1.png'
+          thumbnail: '../assets/img/book1.png',
+          explan: '윤성빈 결국 모든 강화에 실패하고 마는데... <br><br> 그의 도전은 여기서 끝인건가..? <br><br> 윤성빈의 로아 실패작을 담은 엄청난 베스트셀러!'
         },
       ]
     },
@@ -95,32 +107,38 @@ function getBookList() {
         {
           bookName: '아 집가고싶다 ㅋㅋ',
           author: '김승용',
-          thumbnail: '../assets/img/book1.png'
+          thumbnail: '../assets/img/book1.png',
+          explan: '집보내줘집보내줘집보내줘집보내줘집보내줘집보내줘집보내줘집보내줘집보내줘집보내줘집보내줘집보내줘집보내줘집보내줘집보내줘집보내줘집보내줘집보내줘집보내줘집보내줘집보내줘집보내줘집보내줘집보내줘'
         },
         {
           bookName: '아 집가고싶다 ㅋㅋ',
           author: '김승용',
-          thumbnail: '../assets/img/book1.png'
+          thumbnail: '../assets/img/book1.png',
+          explan: '집보내줘집보내줘집보내줘집보내줘집보내줘집보내줘집보내줘집보내줘집보내줘집보내줘집보내줘집보내줘집보내줘집보내줘집보내줘집보내줘집보내줘집보내줘집보내줘집보내줘집보내줘집보내줘집보내줘집보내줘'
         },
         {
           bookName: '아 집가고싶다 ㅋㅋ',
           author: '김승용',
-          thumbnail: '../assets/img/book1.png'
+          thumbnail: '../assets/img/book1.png',
+          explan: '집보내줘집보내줘집보내줘집보내줘집보내줘집보내줘집보내줘집보내줘집보내줘집보내줘집보내줘집보내줘집보내줘집보내줘집보내줘집보내줘집보내줘집보내줘집보내줘집보내줘집보내줘집보내줘집보내줘집보내줘'
         },
         {
           bookName: '아 집가고싶다 ㅋㅋ',
           author: '김승용',
-          thumbnail: '../assets/img/book1.png'
+          thumbnail: '../assets/img/book1.png',
+          explan: '집보내줘집보내줘집보내줘집보내줘집보내줘집보내줘집보내줘집보내줘집보내줘집보내줘집보내줘집보내줘집보내줘집보내줘집보내줘집보내줘집보내줘집보내줘집보내줘집보내줘집보내줘집보내줘집보내줘집보내줘'
         },
         {
           bookName: '아 집가고싶다 ㅋㅋ',
           author: '김승용',
-          thumbnail: '../assets/img/book1.png'
+          thumbnail: '../assets/img/book1.png',
+          explan: '집보내줘집보내줘집보내줘집보내줘집보내줘집보내줘집보내줘집보내줘집보내줘집보내줘집보내줘집보내줘집보내줘집보내줘집보내줘집보내줘집보내줘집보내줘집보내줘집보내줘집보내줘집보내줘집보내줘집보내줘'
         },
         {
           bookName: '아 집가고싶다 ㅋㅋ',
           author: '김승용',
-          thumbnail: '../assets/img/book1.png'
+          thumbnail: '../assets/img/book1.png',
+          explan: '집보내줘집보내줘집보내줘집보내줘집보내줘집보내줘집보내줘집보내줘집보내줘집보내줘집보내줘집보내줘집보내줘집보내줘집보내줘집보내줘집보내줘집보내줘집보내줘집보내줘집보내줘집보내줘집보내줘집보내줘'
         },
       ]
     },
@@ -159,24 +177,46 @@ function getBookList() {
       let bookNameEle = document.createElement('div');
       let bookAuthorEle = document.createElement('div');
       let bookImgBoxEle = document.createElement('div');
+      let bookExplanBoxEle = document.createElement('div');
+      let bookExplanEle = document.createElement('div');
+
       bookImgBoxEle.className = 'book-img-box';
 
       bookEle.className = 'book';
       bookImgEle.className = 'book-img';
       bookNameEle.className = 'book-name';
       bookAuthorEle.className = 'book-author';
+      bookExplanBoxEle.className = 'book-explan-box';
+      bookExplanEle.className = 'book-explan';
 
       bookNameEle.innerText = book.bookName;
       bookImgEle.src = book.thumbnail;
       bookImgEle.alt = book.bookName;
       bookAuthorEle.innerText = book.author;
-
+      bookExplanEle.innerHTML = book.explan;
+      
+      bookExplanBoxEle.appendChild(bookExplanEle);
+      bookImgBoxEle.appendChild(bookExplanBoxEle);
       bookImgBoxEle.appendChild(bookImgEle);
       bookEle.appendChild(bookImgBoxEle);
       bookEle.appendChild(bookNameEle);
       bookEle.appendChild(bookAuthorEle);
 
       booksEle.appendChild(bookEle);
+
+      bookExplanEle.addEventListener(('mouseover'), () => {
+        bookExplanEle.style.animationDuration = '0.7s';
+        bookExplanEle.style.animationFillMode = 'forwards';
+        bookExplanEle.style.animationTimingFunction = 'steps(29)';
+        bookExplanEle.style.animationName = 'openExplan';
+      });
+    
+      bookExplanEle.addEventListener(('mouseout'), () => {
+        bookExplanEle.style.animationDuration = '0.7s';
+        bookExplanEle.style.animationFillMode = 'forwards';
+        bookExplanEle.style.animationTimingFunction = 'steps(29)';
+        bookExplanEle.style.animationName = 'closeExplan';
+      });
     });
 
     bookTopEle.appendChild(contentsTitleEle);
