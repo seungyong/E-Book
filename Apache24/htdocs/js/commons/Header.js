@@ -26,6 +26,14 @@ document.addEventListener('scroll', () => {
     prevScrollY = scrollY;
 });
 
+searchInputEle.addEventListener('mouseover', () => {
+    searchUnderlineEle.classList.add('--hover');
+});
+
+searchInputEle.addEventListener('mouseout', () => {
+    searchUnderlineEle.classList.remove('--hover');
+});
+
 searchInputEle.addEventListener('focus', () => {
     searchUnderlineEle.classList.add('--clicked');
 });
