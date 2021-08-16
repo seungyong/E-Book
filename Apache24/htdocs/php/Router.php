@@ -4,7 +4,7 @@
         $url = "";
         
         if ($uri == "/") {
-            $url = "./views/Index.html";
+            $url = "views/Main.html";
         }
 
         return $url;
