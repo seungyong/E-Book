@@ -1,10 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="../../css/commons/Initialization.css">
     <link rel="stylesheet" href="../../css/commons/Header.css">
     <script src="./js/commons/Header.js" defer></script>
 </head>
@@ -17,12 +13,35 @@
                         <img src="../../assets/img/logo.png" alt="logo" class="logo">
                     </div>
                     <input class="search-input" type="text" placeholder="검색어를 입력해주세요.">
+                    <div class="search-img-box">
+                        <img src="../../assets/img/search.png" alt="search" class="search-img">
+                    </div>
                     <span class="underline"></span>
+                    <div class="history-box none">
+                        <div class="all-delete">
+                            <span>전체삭제</span>
+                        </div>
+                    </div>
                 </div>
-                <div class="user-box">
+                <div class="user-func">
+                    <div class="login-img-box" title="로그인">
+                        <a href="/login">
+                            <img src="../../assets/img/login.png" alt="로그인">
+                        </a>
+                    </div>
+                    <div class="signup-img-box" title="회원가입">
+                        <a href="#">
+                            <img src="../../assets/img/sign_up.png" alt="회원가입">
+                        </a>
+                    </div>
+                </div>
+                <!-- <div class="user-box">
                     <img src="./assets/img/user.svg" alt="UserProfile" class="user-img">
-                    <span class="user-name">최은영</span>
-                </div>
+                    <span class="user-name">
+                        최은영최은영최은영
+                    </span>
+                    <span>님</span>
+                </div> -->
             </div>
             <div class="menu-box">
                 <div class="menu-box__title">
@@ -33,6 +52,9 @@
                 </div>
                 <div class="menu-box__title">
                     <a href="#">웹소설</a>
+                </div>
+                <div class="menu-box__title settings">
+                    <a href="#">설정</a>
                 </div>
             </div>
         </div>
