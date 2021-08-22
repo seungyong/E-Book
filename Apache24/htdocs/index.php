@@ -12,11 +12,15 @@
 <?php
     include('./php/Router.php');
 
-    $uri= $_SERVER['REQUEST_URI'];
-    $url = routing($uri);
+    Router::add('get', '/', function() {
+        include('./views/Main.html');
+    });
 
-    include_once($url);
-    include('./views/commons/Footer.html');
+    Router::add('get', '/login', function() {
+        include('./views/login/Login.html');
+    });
+
+    Router::run();
 ?>
 </body>
 </html>

@@ -1,0 +1,11 @@
+Rewrite Module 설정
+
+#LoadModule rewrite_module modules/mod_rewrite.so 주석제거
+
+<Directory />
+    AllowOverride All
+    Options All
+</Directory>
+
+AllowOverride 검색 후
+AllowOverride None이면 AllowOverride All로 변경
